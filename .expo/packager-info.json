@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://zn-2hv.namansharma.shopscaninsights.exp.direct",
+  "packagerNgrokUrl": "https://packager.zn-2hv.namansharma.shopscaninsights.exp.direct",
+  "ngrokPid": 1300,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
